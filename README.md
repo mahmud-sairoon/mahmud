@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaled-mahmud
+- 👋 Hi, I’m @mahmud
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP with Laravel
 - 💞️ I’m looking to collaborate on Web Development Projects
